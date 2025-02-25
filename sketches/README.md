@@ -1,5 +1,5 @@
 # Sketches
 
-![!!!Caption for image!!!](!!!filename.png!!!)
+![!!!Caption for image!!!](home.png.png)
 
 !!!Give context by explaining each sketch image!!!
