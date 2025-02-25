@@ -1,14 +1,17 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
+# PriceCheck
 
-# !!!Project Name!!!
-
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+```
+Problem:
+There has been many times where I order something on amazon and shortly after I realize I could've gotten it cheaper on a different website...
+Innovation:
+A chrome extension that'll check the prices of products across multiple websites (amazon, eBay, newegg, etc...) and return a link if a cheaper price is found.
+Tech: Chrome extension, JavaScript, HTML, and CSS.
+```
 
 ## UX Team Members
 
-* **[!!!Person A name!!!](!!!URL to Person A's published UX journal!!!)** - !!!List of Person A's primary contributions!!!
-* **[!!!Person B name!!!](!!!URL to Person B's published UX journal!!!)** - !!!List of Person B's primary contributions!!!
-* **[!!!Person C name!!!](!!!URL to Person C's published UX journal!!!)** - !!!List of Person C's primary contributions!!!
+* **[Gibson Smith](https://github.com/UsabilityEngineering/portfolio-gdsmith1)** - !!!List of Person A's primary contributions!!!
+* **[Vernon Earwood]([!!!URL to Person B's published UX journal!!!](https://github.com/UsabilityEngineering/portfolio-vbearwood))** - !!!List of Person B's primary contributions!!!
 
 # User-Centered Design Artifacts
 
