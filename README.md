@@ -11,7 +11,7 @@ Tech: Chrome extension, JavaScript, HTML, and CSS.
 ## UX Team Members
 
 * **[Gibson Smith](https://github.com/UsabilityEngineering/portfolio-gdsmith1)** - !!!List of Person A's primary contributions!!!
-* **[Vernon Earwood]([!!!URL to Person B's published UX journal!!!](https://github.com/UsabilityEngineering/portfolio-vbearwood))** - !!!List of Person B's primary contributions!!!
+* **[Vernon Earwood](https://github.com/UsabilityEngineering/portfolio-vbearwood)** - !!!List of Person B's primary contributions!!!
 
 # User-Centered Design Artifacts
 
