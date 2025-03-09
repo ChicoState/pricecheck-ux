@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Pricecheck is an extension that will check prices across multiple websites to help users find a better price. The extension will return a link to the item once a cheaper option is found. Finding these prices will help users save money. 
 
 ## Methods
 
