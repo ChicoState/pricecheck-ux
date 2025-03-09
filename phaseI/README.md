@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Pricecheck is an extension that will check prices across multiple websites to help users find a better price. The extension will return a link to the item once a cheaper option is found. Finding these prices will help users save money. 
+PriceCheck is an extension that will check prices across multiple websites to help users find a better price. The extension will return a link to the item once a cheaper option is found. Finding these prices will help users save money. 
 
 ## Methods
 
@@ -20,4 +20,4 @@ From our early research, we were able to derive that our product is meant to be 
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+One caveat was the lack of information due to the Honey extension not returning any valid deals during the UX team’s competitive analysis research. Another being only two members in the UX team, which led to the team not finding all of the information that we wanted.
