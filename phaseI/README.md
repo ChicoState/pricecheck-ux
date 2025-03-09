@@ -6,7 +6,11 @@ PriceCheck is an extension that will check prices across multiple websites to he
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!!
+The UX team explored a range of different research methods to gain a deeper insight into improvements for the extension, with the goal to enhance the user experience. The first of these research methods was competitive analysis, which we used to explore our competitors to see the areas we can make improvements in. We found three of the most popular competitors, tested their extension multiple times and wrote down five different categories to understand their product. These five categories being strength, weaknesses, quality level, price/cost, and the platform it is on.
+
+The next research method the UX team conducted was the creation of personas and scenarios. We created two different personas based on our target demographic and gave them a mini background to get a better understanding of what our users would need from our extension. The UX team made two scenarios for the personas to help us understand why someone would use our extension.
+
+The final research method explored by the UX team was the heuristic evaluation. The UX team identified our biggest competitor and applied [Nielsen's 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) to evaluate them on their product. We went through the list of Nielsen’s Heuristics, which are Visibility of System Status, Match Between the System and the Real World, User Control and Freedom, Consistency and Standards, Error Prevention, Recognition Rather than Recall, Flexibility and Efficiency of Use, Aesthetic and Minimalist Design, Help Users Recognize, Diagnose, and Recover from Errors, and Help and Documentation. After going through each of the Heuristics the UX team evaluated the extension on a scale of 1-10 for each of the heuristics.
 
 ## Findings
 
