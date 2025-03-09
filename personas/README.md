@@ -1,9 +1,31 @@
 # Personas
 
-![](!!!image_filename.png!!!)
+![](Blake.png)
 
-!!!Persona!!!
+## Blake
+22 year male in San Francisco, California.
+Head PC Technician for a local IT shop.
+Blake runs a popular IT shop, and is constantly busy with incoming work. He is very good at his
+job, but constantly needed by his employees to help. He owns the business, and has to
+manage the store’s needs on top of his repair duties.
 
+Goals:
+- Blake wants to find a supplier to buy parts for work
+- Blake does not have a lot of free time, and would like any opportunity to skip the grunt
+work at his job
+- Blake wants to acquire parts at the best rate possible.
+
+![](Jeff.png)
+## Jeff
+18 year old man in Kansas City, Missouri
+Freshmen in College, Trying to become a streamer.
+Jeff enjoys watching big streamers after classes and needs a bit of money to help with college.
+Due to his need for money he turns to the streaming business. He needs to update his pc to be
+able to match the specifications for streaming.
+
+Goals:
+- To find a supplier that sells pc parts for cheaper
+- Jeff wants the parts to ship to him relatively quick to start his career quicker
 # Scenarios
 
 ## Parts no longer sold at local retailers
