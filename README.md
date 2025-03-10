@@ -1,10 +1,16 @@
 # PriceCheck
 
 Problem:
+
 There has been many times where I order something on amazon and shortly after I realize I could've gotten it cheaper on a different website...
+
 Innovation:
+
 A chrome extension that'll check the prices of products across multiple websites (amazon, eBay, newegg, etc...) and return a link if a cheaper price is found.
-Tech: Chrome extension, JavaScript, HTML, and CSS.
+
+Tech:
+
+Chrome extension, JavaScript, HTML, and CSS.
 
 ## UX Team Members
 
