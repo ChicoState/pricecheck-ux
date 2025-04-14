@@ -40,7 +40,10 @@ Chrome extension, JavaScript, HTML, and CSS.
 
 **Executive Summary**
 
-!!!Put phase II Executive Summary here!!!
+* Reached out to people outside of our group for **feedback on our current designs**
+* **Discovered pain points for new users** in PriceCheck’s interface from cognitive walkthroughs
+* Found that **users are generally able to complete their goals** while using PriceCheck
+* Learned that users are interested in the Alerts feature, and **invested more time in designing it**
 
 [Full phase II report](phaseII/)
 
