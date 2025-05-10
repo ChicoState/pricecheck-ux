@@ -14,8 +14,8 @@ Chrome extension, JavaScript, HTML, and CSS.
 
 ## UX Team Members
 
-* **[Gibson Smith](https://github.com/UsabilityEngineering/portfolio-gdsmith1)** - Wrote Executive Summaries, Findings, and Conclusions for phases 1 and 2
-* **[Vernon Earwood](https://github.com/UsabilityEngineering/portfolio-vbearwood)** - Did the Introduction, Methods, and Caveats for phases 1 and 2.
+* **[Gibson Smith](https://github.com/UsabilityEngineering/portfolio-gdsmith1)** - Wrote Executive Summaries, Findings, and Conclusions for phases 1, 2, and 3.
+* **[Vernon Earwood](https://github.com/UsabilityEngineering/portfolio-vbearwood)** - Did the Introduction, Methods, and Caveats for phases 1, 2, and 3.
 
 # User-Centered Design Artifacts
 
