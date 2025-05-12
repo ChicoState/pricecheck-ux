@@ -6,9 +6,13 @@
 
 ## Methods
 
+[Usability test protocol PDF!](protocol.pdf)
+
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!!
 
 ## Findings
+
+[Spreadsheet of our results!](https://docs.google.com/spreadsheets/d/13pTX2hT4gQKe3u2hVPQc0UNdrYdhTEd_dF8wrpG-Pyk/edit?usp=sharing)
 
 From our user tests, we were able to get valuable user data and feature suggestions.  The previous experiences for the users with other price saving tools was generally negative, with most claiming they often wouldn’t work.  This shows that there is definitely a need for working apps like PriceCheck.  During the tests against competitor Honey, users identified major issues with the search engine’s ability.  All of the users had difficulties finding the item that they were supposed to, as the search results were specific enough to their search.  They found that they would have to search through results that seemed to not be arranged in any useful order.  After this, users also generally had difficulty recognizing Honey’s “Droplist” icon when setting an alert for the item.  Because of the lack of labeling to the icon, some users struggled to find it, with one third of users not being able to complete the task.  For both finding an item and creating an alert, users gave Honey a mean score of 3.5 out of 5.
 
