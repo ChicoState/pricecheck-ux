@@ -22,7 +22,7 @@ Chrome extension, JavaScript, HTML, and CSS.
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](https://www.figma.com/proto/6zPFjxBZ5GeKKA7uvVISg8/PriceCheck-Prototype?node-id=0-1&t=mpabPYC7hOIPycqw-1)
+* [Prototype](prototype/)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
