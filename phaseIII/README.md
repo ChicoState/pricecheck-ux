@@ -38,4 +38,4 @@ From the insights that the users were able to highlight the demand and potential
 
 ## Caveats
 
-Caveats for the extension included the fact that it was not a fully developed application, which limited the amount of testing the UX team could conduct. Another caveat was the small sample size of participants a larger sample size would have been more optimal.
+Caveats for the PriceCheck user tests included the fact that it was not a fully developed application, which limited the amount of testing we could conduct, meaning the features that we would show such as the search would have to be assumed to work on the actual app. Another caveat was the small sample size of participants, a larger sample size would have been more optimal to get a more definitive range of opinions.  The diversity of this group was also limited to members of the UX class, which does not give a broad representation of PriceCheck's potential customers.
