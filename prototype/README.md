@@ -1,5 +1,7 @@
 # Prototype
 
+[Link to the prototype on Figma](https://www.figma.com/proto/6zPFjxBZ5GeKKA7uvVISg8/PriceCheck-Prototype?node-id=0-1&t=mpabPYC7hOIPycqw-1)
+
 ![Prototype 1](PriceCheck-Prototype-1.png)
 
 This is the screen that users see when one of their alerts are being set off.  They can close it or open the item page.
