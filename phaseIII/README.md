@@ -2,13 +2,15 @@
 
 ## Introduction
 
-In the last report, the UX team ended with Cognitive Walkthroughs and Informal Feedbacks and the team was wondering whether the UX team could test our designs to make sure that our product would be easy to use. The main goal of this sprint was to learn how to make and use prototypes as a workable model of the extension and to gather data from participants.
+In the last report, we concluded with Cognitive Walkthroughs and Informal Feedback, and we were wondering whether we could test our designs to ensure our product would be easy to use. The main goal of this sprint was to learn how to create and use prototypes as workable models of the extension and to gather data from participants.
 
 ## Methods
 
 [Usability test protocol PDF!](protocol.pdf)
 
-For this sprint, the UX team explored one more method in order to get a better understanding of what to improve for the extension. This method being **User Tests**. For the User Tests, the UX team had to do a lot of setup. The UX team first had to do training to be able to do the User Tests in the first place. Then the team had to create protocols that the team goes through in the User Test. Finally, before we started, the team made consent forms for each of the participants in order to get their consent to be a participant. After all that, to start up, the team first talked about some protocols that would be followed by the participants, ensuring them that their name and other private information would be shredded after the tests are over. Then the team started with getting some background information from each of the participants. From there, the UX team began the tests. Each participant ran through four different tests to compare the extension's competitor and the extension itself. During each test, the UX team took notes of each step the participant was doing and then asked if the step was completed or not. After the tests, participants were asked to rate the extension compared to the extension's competitor to get an idea of what can be improved upon.
+For this sprint, we explored one more method to gain a better understanding of what to improve for the extension: **User Tests**. To prepare for the User Tests, we had to complete several setup steps. First, we underwent training to conduct the tests effectively. Then, we created detailed protocols to guide the User Test sessions. Before starting, we also prepared consent forms for each participant to ensure we had their permission to take part.
+
+To begin the sessions, we walked participants through the protocols and assured them that their names and any other private information would be shredded after the tests concluded. We then gathered background information from each participant before starting the tests.  We asked them to think-aloud as they worked through each task, and describe not only what they are doing, but why they are doing it. Each participant was asked to find a real tech product on both the prototype of our extension, and our competitor, Honey.  If they were able to complete that task, they were asked to continue by creating an alert for when that item would drop in price. During each session, we carefully observed and took notes on the steps the participant followed, confirming whether each step was successfully completed. After the tasks, we asked participants to rate our extension in comparison to the competitor's to help us identify areas for improvement.
 
 ## Findings
 
