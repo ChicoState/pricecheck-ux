@@ -52,14 +52,14 @@ Chrome extension, JavaScript, HTML, and CSS.
 **Executive Summary**
 
 We conducted user tests on the PriceCheck prototype, and got valuable feedback:
-* PriceCheck’s prototype was praised for its simple layout and ease of navigation for first-time users.
+* PriceCheck’s prototype was **praised for its simple layout and ease of navigation** for first-time users.
 Users had difficulty with Honey’s search results and alert system, leading to a lower average ease-of-use score (3.5/5).
-* PriceCheck scored significantly higher in ease-of-use (4.7/5) for both finding items and creating alerts.
-* When compared directly with Honey, users found PriceCheck more efficient, though satisfaction scores were more varied due to Honey’s richer product details.
+* PriceCheck scored **significantly higher in ease-of-use (4.7/5)** for both finding items and creating alerts.
+* When compared directly with Honey, users **found PriceCheck more efficient**, though **satisfaction scores were more varied due to Honey’s richer product details**.
 * Key suggestions for improvement included:
-  * Adding more detailed item descriptions (including prices and images)
-  * Clarifying price labels (e.g., “Best Used Price” vs. “Best Price”)
-  * Simplifying alert creation by removing the need to know the current price
-* Findings indicate strong user demand for a tool like PriceCheck, with future iterations needing to balance clarity, simplicity, and feature richness
+  * **Adding more detailed item descriptions** (including prices and images)
+  * **Clarifying price labels** (e.g., “Best Used Price” vs. “Best Price”)
+  * **Simplifying alert creation** by removing the need to know the current price
+* Findings indicate **strong user demand for a tool like PriceCheck**, with future iterations needing to balance clarity, simplicity, and feature richness
 
 [Full phase III report](phaseIII/)
