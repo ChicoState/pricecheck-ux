@@ -2,13 +2,13 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+In the last report, the UX team ended with Cognitive Walkthroughs and Informal Feedbacks and the team was wondering whether the UX team could test our designs to make sure that our product would be easy to use. The main goal of this sprint was to learn how to make and use prototypes as a workable model of the extension and to gather data from participants.
 
 ## Methods
 
 [Usability test protocol PDF!](protocol.pdf)
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!!
+For this sprint, the UX team explored one more method in order to get a better understanding of what to improve for the extension. This method being **User Tests**. For the User Tests, the UX team had to do a lot of setup. The UX team first had to do training to be able to do the User Tests in the first place. Then the team had to create protocols that the team goes through in the User Test. Finally, before we started, the team made consent forms for each of the participants in order to get their consent to be a participant. After all that, to start up, the team first talked about some protocols that would be followed by the participants, ensuring them that their name and other private information would be shredded after the tests are over. Then the team started with getting some background information from each of the participants. From there, the UX team began the tests. Each participant ran through four different tests to compare the extension's competitor and the extension itself. During each test, the UX team took notes of each step the participant was doing and then asked if the step was completed or not. After the tests, participants were asked to rate the extension compared to the extension's competitor to get an idea of what can be improved upon.
 
 ## Findings
 
@@ -36,4 +36,4 @@ From the insights that the users were able to highlight the demand and potential
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+Caveats for the extension included the fact that it was not a fully developed application, which limited the amount of testing the UX team could conduct. Another caveat was the small sample size of participants a larger sample size would have been more optimal.
